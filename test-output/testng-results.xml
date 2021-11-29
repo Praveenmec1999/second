@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+      <class name="org.login.TestNg">
+        <test-method status="PASS" signature="tb1()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tb1" is-config="true" duration-ms="13" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tb1 -->
+        <test-method status="PASS" signature="tc8()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tc8" is-config="true" duration-ms="1" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tc2" is-config="true" duration-ms="1" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tc5" duration-ms="3" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tc7" is-config="true" duration-ms="1" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.login.TestNg@1f0f1111]" name="tc4" is-config="true" duration-ms="0" started-at="2021-11-16T12:04:44Z" finished-at="2021-11-16T12:04:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- org.login.TestNg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
